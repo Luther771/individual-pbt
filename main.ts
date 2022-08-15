@@ -1,0 +1,15 @@
+basic.showString("Member of ")
+basic.showNumber(7)
+basic.pause(200)
+basic.showString("Bosconians")
+basic.showString("My class number is")
+basic.showNumber(7)
+basic.pause(200)
+basic.showString("I am Luther")
+basic.showString("My Favorite color is red and blue")
+basic.showString("My favorite food is bacon and borrito")
+basic.showString("Hello!")
+basic.showNumber(0)
+basic.forever(function () {
+	
+})
